@@ -3,8 +3,7 @@ A comprehensive analytical study of large-scale network traffic datasets to iden
 
 ## 🚀 Project Overview
 This project performs a deep-dive analysis of cybersecurity datasets to understand network behavior. By combining **Python** for automated data wrangling and **Excel** for advanced statistical modeling, I transformed raw network logs into actionable security insights.
-![Cyber Security Dashboard](Dashboard visuals
-.png)
+![Cyber Security Dashboard](Dashboard%20visuals.png)
 
 ## ✨ Key Technical Insights
 * **Exploratory Data Analysis (EDA):** Performed descriptive statistics on 1,779 network instances to analyze APP_BYTES and TCP conversation exchanges.
